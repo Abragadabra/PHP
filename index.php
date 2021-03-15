@@ -28,7 +28,19 @@
 //
 //    define(NUMBER_PI, 3.14159265); // создал свою первую константу
 
+    $a = 15;
+    $b = 30;
 
+    $a += 10;
+
+//    echo $a + $b . '<br>';
+//    echo $a - $b . '<br>';
+//    echo $a * $b . '<br>';
+//    echo $a / $b . '<br>';
+//    echo $a % $b . '<br>';
+
+    echo M_PI . '<br>';
+    echo M_E;
 ?>
 </body>
 </html>
