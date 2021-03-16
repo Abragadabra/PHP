@@ -5,7 +5,7 @@
     <title>PHP</title>
     <style>
         body {
-            font-size: 20px;
+            font-size: 35px;
             font-family: sans-serif;
             background-color: gray;
         }
@@ -140,7 +140,12 @@
 //        echo 'asfas';
 //    } while ($i != 1);
 
-
+//    for ($i = 1; $i < 15; $i++) {
+//        if ($i % 2 == 1) {
+//            continue;
+//        }
+//        echo "$i" . '<br>';
+//    }
 
 
 
