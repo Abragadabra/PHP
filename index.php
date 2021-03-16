@@ -46,6 +46,14 @@
 //    echo round(3.456, 1) . '<br>'; // правильное округление
 //    echo mt_rand(-999, 999) . '<br>';
 
+//    $string = 'Some text';
+//    echo "text: $string" . '<br>'; // но двойные ковычки в 2 раза дольше обрабатываются!
+//    echo '<input type="password"> <br>';
+//    $lenght = strlen($string);
+//    echo $lenght . ' ';
+//    echo md5('Hello World!!');
+
+
 
 ?>
 </body>
