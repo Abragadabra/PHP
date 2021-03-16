@@ -5,7 +5,7 @@
     <title>PHP</title>
     <style>
         body {
-            font-size: 35px;
+            font-size: 20px;
             font-family: sans-serif;
             background-color: gray;
         }
@@ -125,6 +125,23 @@
 //    ];
 //
 //    echo $arr[1][0];
+
+
+
+//    for ($i = 0; $i < 10; $i++) {
+//        echo 'слово' . '<br>';
+//    }
+
+//    while ($i = 0) {
+//        echo 'text';
+//    }
+//    $i = 1;
+//    do {
+//        echo 'asfas';
+//    } while ($i != 1);
+
+
+
 
 
 ?>
