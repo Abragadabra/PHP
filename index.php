@@ -106,7 +106,16 @@
 //    }
 
 
-
+//    $num = array(44, 3, 2, -34, 4);
+//    $num[3] = 54;
+//    echo $num[3];
+//
+//    $people = [
+//       'age' => 25,
+//       'name' => 'Alexander',
+//       'skills' => 'php'
+//    ];
+//    echo $people['skills'];
 
 
 
