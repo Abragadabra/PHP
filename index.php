@@ -147,11 +147,13 @@
 //        echo "$i" . '<br>';
 //    }
 
-    $arr = [45, 'hello', 'lorem', 7, 5.6, -4, 'world', '!'];
+//    $arr = [45, 'hello', 'lorem', 7, 5.6, -4, 'world', '!'];
+//
+//    for ($i = 0; $i < count($arr); $i++) {
+//        echo "$arr[$i]" . '<br>';
+//    }
 
-    for ($i = 0; $i < count($arr); $i++) {
-        echo "$arr[$i]" . '<br>';
-    }
+
 
 
 
